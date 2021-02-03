@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <name>CoupaRiskAssessRegressionBuild_AnotherTest Config DSL Script</name>
-  <groupId>CoupaRiskAssessRegressionBuild_AnotherTest</groupId>
-  <artifactId>CoupaRiskAssessRegressionBuild_AnotherTest_dsl</artifactId>
+  <name>CoupaRiskAssessRegressionBuild_AnotherAnotherTest Config DSL Script</name>
+  <groupId>CoupaRiskAssessRegressionBuild_AnotherAnotherTest</groupId>
+  <artifactId>CoupaRiskAssessRegressionBuild_AnotherAnotherTest_dsl</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <parent>
