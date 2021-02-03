@@ -3,6 +3,17 @@
   <name>AnotherTest</name>
   <description>AnotherTest</description>
   <parameters />
+  <project-extensions>
+    <extension id="PROJECT_EXT_4" type="versionedSettings">
+      <parameters>
+        <param name="buildSettings" value="ALWAYS_USE_CURRENT" />
+        <param name="credentialsStorageType" value="credentialsJSON" />
+        <param name="enabled" value="true" />
+        <param name="rootId" value="CoupaRiskAssessRegressionBuild_Srimaan" />
+        <param name="showChanges" value="false" />
+      </parameters>
+    </extension>
+  </project-extensions>
   <cleanup />
 </project>
 
