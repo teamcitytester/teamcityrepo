@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" parent-id="CoupaRiskAssessRegressionBuild" uuid="082dbe3a-85e1-407a-a3cb-3b848daaec20" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2020.1/project-config.xsd">
+  <name>AnotherAnotherTest</name>
+  <parameters />
+  <cleanup />
+</project>
+
