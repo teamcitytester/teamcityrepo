@@ -1,5 +1,4 @@
 import jetbrains.buildServer.configs.kotlin.v2019_2.*
-import jetbrains.buildServer.configs.kotlin.v2019_2.buildSteps.script
 import jetbrains.buildServer.configs.kotlin.v2019_2.projectFeatures.buildReportTab
 
 /*
@@ -55,17 +54,4 @@ object Pro1 : Project({
 
 object Pro2 : Project({
     name = "Pro2"
-
-    buildType(Pro2_RunSmokeTest)
-})
-
-object Pro2_RunSmokeTest : BuildType({
-    name = "RunSmokeTest"
-    description = "RunSmokeTest"
-
-    steps {
-        script {
-            scriptContent = """echo "HelloWorld""""
-        }
-    }
 })
